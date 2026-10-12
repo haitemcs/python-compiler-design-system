@@ -1,0 +1,3 @@
+int age = 19;
+float price = 12.5;
+age = age + 1;
